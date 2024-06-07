@@ -1,12 +1,12 @@
 ---
 title: "A genetically defined insula-brainstem circuit selectively controls motivational vigor"
 collection: publications
-permalink: /publication/A genetically defined insula-brainstem circuit selectively controls motivational vigor
+permalink: /publication/A_genetically_defined_insula-brainstem_circuit_selectively_controls_motivational_vigor
 excerpt: ''
 date: 2021-12-09
 venue: 'Cell'
 slidesurl: ''
-paperurl: 'http://academicpages.github.io/files/A genetically defined insula-brainstem circuit selectively controls motivational vigor.pdf'
+paperurl: 'http://academicpages.github.io/files/A_genetically_defined_insula-brainstem_circuit_selectively_controls_motivational_vigor.pdf'
 citation: 'Deng HF#*, Xiao X#, Yang T, Ritola K, Hantman A, Li YL, Huang ZJ, Li B*(2021). A genetically defined insula-brainstem circuit selectively controls motivational vigor. Cell. 184(26): 6344-6360.e18(*corresponding author,#co-first author)'
 ---
 
