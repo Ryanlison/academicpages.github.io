@@ -1,7 +1,7 @@
 ---
 title: "A genetically defined insula-brainstem circuit selectively controls motivational vigor"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/A genetically defined insula-brainstem circuit selectively controls motivational vigor
 excerpt: ''
 date: 2021-12-09
 venue: 'Cell'
